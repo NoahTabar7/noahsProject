@@ -1,4 +1,2 @@
-alert("Hello you cool kid");
+alert("Welcome to my website!");
 // python -m SimpleHTTPServer 8000
-
-
